@@ -10,25 +10,15 @@ function App() {
     const newCart = [...players, newPlayer];
     setPlayers(newCart);
   }
-
   const api_token = 'fmw6EBoZo07U5PPmvbxR8XUi0sflEYM4ecawmXTbs58i34hGQmjJzUAmK7pj';
-  var requestOptions = {
-    method: 'GET',
-    redirect: 'follow'
-  };
-
-  const fetchData = () => {
-    fetch(`https://soccer.sportmonks.com/api/v2.0/countries/462/players?api_token=${api_token}`, requestOptions)
-      .then(response => {
-        return response.json()
-      })
-      .then(singlePlayer => {
-        setPlayers(singlePlayer.data)
-     })
-  }
 
   useEffect(() => {
-    fetchData()
+    fetch(`https://soccer.sportmonks.com/api/v2.0/countries/462/players?api_token=${api_token}`, {
+      method: 'Get',
+      redirect: 'follow'
+    })
+      .then(response => response.json())
+      .then(singlePlayer => setPlayers(singlePlayer.data))
   }, [])
 
 
