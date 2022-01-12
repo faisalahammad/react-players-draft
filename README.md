@@ -1,70 +1,8 @@
-# Getting Started with Create React App
+## Resources:
+1. API: [sportmonks.com](https://football-postman.sportmonks.com/)
+2. Course: [Programming Hero](https://web.programming-hero.com/)
+3. CSS Framework: [Bootstrap](https://getbootstrap.com/)
+4. Icons: [FontAwesome](https://fontawesome.com/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Preview
+![Preview](https://cleanshot-cloud-fra.s3.eu-central-1.amazonaws.com/media/21037/soWCSxQtykXQsS3Emks3E7WBHb8206eVkIPkJSi6.gif?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEC0aDGV1LWNlbnRyYWwtMSJHMEUCIDUZymTaZoUyC96M580y8cdjxOGKVMdX%2FkLeip7Cu3p4AiEAqnneOLhez8CEIHb1lab6hwSKTF56l2UfZlHCIaFo4XwqoQIIRhAAGgw5MTk1MTQ0OTE2NzQiDC6Im0%2BDcMXY41MEzSr%2BAX8dmE%2FuGo2wWsRT2LuVTb%2F%2FNiu8Mn5NBimGTj1D53zRteN4bYclIZJT9Qq6ryCsrMF7vAurg%2Fpd2r49cP%2FhFcWAbCiuttWLYtixprygzIcSwt%2F48zCZ195Zrqmk5oITMgmawuZdO7qPH%2B%2BaIm6wk4X2218wC9sboMtHB8gLRCe2lFOBmjP3okzQjdO%2BbxezvTcc5j8pzfN4V9UKtbwv5uV3kyOjSiDeBtaa0ybQF13INQYGt6YSQ8%2FWhP92IdaPE4jjNFGCs1sVYbXzrr1Rg354zWh83ckkQqjupkMasUFSt3NvnOSc9sVwreExCLZsypL2t%2FRm40%2FoD3IzlEKIMImg%2B44GOpoBYx0mTgZtu4qns8GkwmVvEtEyJAY6aA3u7R5kLb39VQI0YX4h1iNtQ3J%2FStCB7Qtc%2FyUoGwQXY1yPGbOP4TdwCDQJNL6t0zng%2Bemk42XD4O3tg9N1s4QJEMhimkXUJSmkPH5ri0QJX30GffI73ZrndkBnAT2zij44rimIlyMZa5QbG0Q4HZWtYGCoXEc1GvDOE5Bo1ElUZlHsEA%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA5MF2VVMNDSE4I6YU%2F20220112%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20220112T125645Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Signature=dcc28ba2ea71e472649521ad8daa9dd6ec064c3e096ca48de623c48fcf3b0ccb)
